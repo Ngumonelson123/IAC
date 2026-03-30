@@ -13,3 +13,8 @@
 */awsaws/
 awscliv2.zip
 *.zip
+**/.terraform/
+.terraform/
+*.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
