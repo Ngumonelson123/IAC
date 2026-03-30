@@ -1,0 +1,13 @@
+*/terraform.tfstate
+*/terraform.tfstate.backup
+*.tfvars
+*.tfvars.json
+*.tfvars.yaml
+*.tfvars.yml
+*.tfvars.tf
+*/terraform
+*/PBL/terraform.tfstate
+*/PBL/terraform.tfstate.backup
+*/PBL/*.tfvars
+*/PBL/*.terraform.lock.hcl
+*/aws
