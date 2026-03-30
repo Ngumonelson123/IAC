@@ -10,4 +10,6 @@
 */PBL/terraform.tfstate.backup
 */PBL/*.tfvars
 */PBL/*.terraform.lock.hcl
-*/aws
+*/awsaws/
+awscliv2.zip
+*.zip
